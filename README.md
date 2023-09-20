@@ -4,4 +4,4 @@ This repository is intended to publish a paper from the authors entitled "Classi
 
 ## License
 
-[MIT](https://choosealicense.com/licenses/mit/)
+[MIT](https://choosealicense.com/licenses/mit/) or check the LICENSE file.
